@@ -316,11 +316,6 @@ nav {
   color: white;
 }
 
-.mobile__no {
-  color: inherit; /* Inherit text color of parent element. */
-  text-decoration: none;
-}
-
 .description__call {
   margin-top: 20px;
 }
