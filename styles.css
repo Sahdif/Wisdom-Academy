@@ -312,6 +312,15 @@ nav {
   margin-top: 30px;
 }
 
+.contact__footer {
+  color: white;
+}
+
+.mobile__no {
+  color: inherit; /* Inherit text color of parent element. */
+  text-decoration: none;
+}
+
 .description__call {
   margin-top: 20px;
 }
@@ -625,6 +634,12 @@ margin-left: 40px;
   margin-top: 100px;
   font-size: 50px;
 }
+
+.footer__margin {
+  margin-top: 60px;
+  margin-bottom: 0px;
+}
+
 
 
 
